@@ -5,7 +5,7 @@ DataSource:
   Paramters:
     DbName: SmartSqlDB
     DbProvider: SqlServer
-    ConnectionString: Data Source=.;Initial Catalog=SmartSqlDB;Integrated Security=True
+    ConnectionString: Data Source=i:\mydatas.db
 Language: CSharp
 TemplateEngine: Razor 
 Output: 
